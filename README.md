@@ -18,9 +18,8 @@ Git repo template for bg3 toolkit mod projects
 
 ## Usage
 1. Create a project in the Baldur's Gate 3 Toolkit
-2. Clone this repo to a non-protected directory (not in something like Program Files)
-   1. You can give a name to the local repo to reflect the specific mod
-   2. You will need to create a fork or change the remote to be able to push changes
-3. Update properties at the top of `repo-setup.py` and save
-4. Run `python repo-setup.py` from command prompt, or double-click on script
-5. Going forward you should be able to commit/push/pull/etc. like any other git repo
+2. [Create a new repository from the template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+3. Clone the new repo to a non-protected directory (not in something like Program Files)
+4. Update properties at the top of `repo-setup.py` and save
+5. Run `python repo-setup.py` from command prompt, or double-click on script
+6. Going forward you should be able to commit/push/pull/etc. like any other git repo
