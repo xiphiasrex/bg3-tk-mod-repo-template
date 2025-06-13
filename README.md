@@ -21,5 +21,5 @@ Git repo template for bg3 toolkit mod projects
 2. Clone this repo to a non-protected directory (not in something like Program Files)
    1. You can give a name to the local repo to reflect the specific mod
 3. Update properties at the top of `repo-setup.py` and save
-4. Run `python repo-setup.py`
+4. Run `python repo-setup.py` from command prompt, or double-click on script
 5. Going forward you should be able to commit/push/pull/etc. like any other git repo

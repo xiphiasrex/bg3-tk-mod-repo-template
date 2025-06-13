@@ -68,3 +68,4 @@ if __name__ == "__main__":
         main()
     except RuntimeError as error:
         print(error)
+        input("Press Enter to exit...")
